@@ -84,7 +84,7 @@ The contracts are deployed at:
 
 1. Clone and install dependencies:
 ```bash
-git clone <this-repo-url>
+git clone https://github.com/Gidyoiysyisut/nexus
 cd nexus-swap-example
 ```
 
